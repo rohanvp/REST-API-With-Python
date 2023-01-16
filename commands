@@ -1,0 +1,3 @@
+touch scraper.py
+export FLASK_APP=scraper.py
+export FLASK_ENV=development
